@@ -45,7 +45,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "//Tags",
-    "//宏代码"
+    "//宏代码",
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -60,6 +61,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
