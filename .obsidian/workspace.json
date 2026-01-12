@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "ai'd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "ai'd"
             }
           }
         ]
@@ -190,9 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b47cc79a339d8615",
+  "active": "447039e86fb1ce47",
   "lastOpenFiles": [
-    "未命名.md",
+    "ai'd.md",
     "cc.md",
     "Tags",
     "宏代码/热风退仓.py",
